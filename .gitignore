@@ -1,3 +1,6 @@
 # hidden directories
 .gradle/
 .idea/
+
+# auto generated directories
+build/
